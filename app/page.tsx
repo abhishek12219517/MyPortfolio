@@ -82,8 +82,9 @@ export default function Home() {
     { name: "Express.js", level: 80 },
     { name: "MongoDB", level: 70 },
     { name: "Git/GitHub", level: 85 },
-    { name: "Responsive Design", level: 90 },
-    { name: "UI/UX Design", level: 75 },
+    { name: "CPP", level: 90 },
+    { name: "Java", level: 75 },
+    
     { name: "Problem Solving", level: 85 },
   ]
 
@@ -117,7 +118,7 @@ export default function Home() {
         description: "A smart safety platform with real-time monitoring, face recognition, and instant alert features for secure movement.",
         technologies: ["HTML", "CSS", "JavaScript"],
         image: "/Sanrakshak.png?height=300&width=500",
-        link: " https://lnkd.in/guAr7fyj",
+        link: " https://klpyh-jqaaa-aaaao-a3mfq-cai.icp0.io/",
         github: "https://github.com/abhishek12219517/Sanrakshak",
       },
     // {
